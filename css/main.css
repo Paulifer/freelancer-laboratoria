@@ -1,0 +1,86 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+ margin: -89px auto;
+  font-size: 16px;
+  line-height: 1.71429;
+}
+header{
+background-color: #28B58E;
+font-family: 'Source Sans Pro', sans-serif;
+margin : 0 auto;
+padding: 76px;
+width: 100%;
+color: white;
+overflow: hidden;
+background-size: cover;
+height: 554px;
+
+
+}
+#cajita{
+  background-color: #042C46;
+  margin: 0 auto;
+  padding: 15px;
+  color: white;
+  width: 100%;
+  
+  position: fixed;
+  
+  }
+a{
+  color: white;
+}
+h5{
+  color: white;
+}
+
+
+img{
+  display: block;
+  margin: auto;
+  height: 292px;
+  max-width: 100%;
+  width: 200px;
+  top: 100px;
+}
+.start{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+
+/*Portafolio*/
+img {
+max-width: 100%;
+height: auto;
+display: block;
+}
+/*About*/
+h3{
+  text-align: center;
+  color: white;
+}
+.about{
+  background-color: #28B58E;
+  color: white;
+ text-align: center;
+}
+/*CONTACT ME*/
+.contact{
+
+  text-align: center;
+}
+/*footer*/
+footer{
+  background-color: #042C46;
+  color: white;
+}
+#direcciones{
+
+}
+
+.copy{
+  text-align: center;
+}
+/*modal*/
